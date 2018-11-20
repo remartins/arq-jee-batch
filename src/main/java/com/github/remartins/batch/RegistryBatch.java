@@ -16,7 +16,7 @@ public class RegistryBatch {
 		
 		Registry registry = new Registry();
 		registry.setName("nome");
-		registry.setDescription("descrição teste");
+		registry.setDescription("descrição teste novo");
 		
 		service.save(registry);
 		
